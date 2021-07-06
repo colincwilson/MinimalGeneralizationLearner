@@ -1,0 +1,5 @@
+phonologyOn: true
+useFeatures: true
+saveConFile: true
+inputDirectory: "/Users/colin/Library/Java/MinimalGeneralizationLearner/English2_unicode/"
+inputFilename: "CELEXFull_unicode.in"

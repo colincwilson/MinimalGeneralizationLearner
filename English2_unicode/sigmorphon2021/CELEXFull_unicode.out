@@ -1,0 +1,75 @@
+Phonological rules discovered: 
+	kd -> kt
+	zt -> zd
+	td -> təd
+	tt -> təd
+	dd -> dəd
+	dt -> dəd
+	vt -> vd
+	Jt -> Jd
+	pd -> pt
+	sd -> st
+	Cd -> Ct
+	ʃd -> ʃt
+	fd -> ft
+	bt -> bd
+	gt -> gd
+	ðt -> ðd
+	θd -> θt
+	ʒt -> ʒd
+
+Morphological changes:
+	[iɹ] -> [ɚd]	suffix
+	[i] -> [ʌ]	infix
+	[u] -> [a]	infix
+	[d] -> [t]	suffix
+	[ʌ] -> [æ]	infix
+	[go] -> [wɛnt]	suffix
+	[im] -> [ɛmt]	suffix
+	[] -> [əd]	suffix
+	[i] -> [e]	infix
+	[i] -> [e]	prefix
+	[i] -> [ɛ]	infix
+	[Y] -> [o]	infix
+	[ik] -> [ɔt]	suffix
+	[ɛ] -> [a]	infix
+	[ɔ] -> [u]	suffix
+	[Y] -> [ɔ]	infix
+	[] -> []	suffix
+	[ɪ] -> [ʌ]	infix
+	[ɪŋ] -> [ɔt]	suffix
+	[iv] -> [ɛft]	suffix
+	[i] -> [ɛd]	suffix
+	[uz] -> [ɔst]	suffix
+	[e] -> [o]	infix
+	[ɔ] -> [ɛ]	infix
+	[iC] -> [ɔt]	suffix
+	[æ] -> [ʌ]	infix
+	[ɪ] -> [e]	infix
+	[Y] -> [ʌ]	infix
+	[e] -> [ʊ]	infix
+	[Y] -> [ɪ]	infix
+	[e] -> [ɛd]	suffix
+	[] -> [t]	suffix
+	[Y] -> [ɔt]	suffix
+	[Y] -> [u]	suffix
+	[u] -> [ɪd]	suffix
+	[] -> [d]	suffix
+	[æC] -> [ɔt]	suffix
+	[ʌ] -> [e]	infix
+	[Y] -> [e]	suffix
+	[o] -> [u]	suffix
+	[e] -> [u]	suffix
+	[i] -> [o]	infix
+	[ip] -> [ɛpt]	suffix
+	[in] -> [ɛnt]	suffix
+	[il] -> [ɛlt]	suffix
+	[o] -> [ɛ]	infix
+	[æn] -> [ʊ]	infix
+	[ɛl] -> [old]	suffix
+	[i] -> [ɔ]	suffix
+	[Y] -> [W]	infix
+	[ɪŋk] -> [ɔt]	suffix
+	[u] -> [o]	infix
+	[ɪ] -> [æ]	infix
+

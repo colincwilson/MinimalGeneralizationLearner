@@ -1,0 +1,82 @@
+# This file provides two functions for dealing with MGL sumfiles:
+# 1. read.sumfile("filename")
+#      reads in a .sum file, checks for duplicate outputs, 
+#      sorts in order of descending confidence, and creates a data frame
+#      containing the .sum file contents
+#
+# 2. sort.sumfile("filename", "outputfilename")
+#      reads in a .sum file and writes the sorted/collapsed output to a file
+#      if the outputfilename is not specified, the default for a file X.sum
+#      will be X.sorted.sum
+
+
+# A function to read sum files from the MGL model
+read.sumfile <- function( filename ) {
+	sumfile = read.table(filename, header=TRUE,sep="\t",comment.char="",quote="",col.names=c("form", "pattern", "form1", "X1", "form2", "X2", "A", "X3", "B", "Change", "X4", "Pres", "Pfeat", "P", "X5", "Q", "Qfeat", "Qres", "scope", "hits", "reliability", "confidence", "related forms", "exceptions", "X6", "X7", "X8"))
+	
+	# Zap the useless columns
+	sumfile$X1 = NULL
+	sumfile$X2 = NULL
+	sumfile$X3 = NULL
+	sumfile$X4 = NULL
+	sumfile$X5 = NULL
+	sumfile$X6 = NULL
+	sumfile$X7 = NULL
+	sumfile$X8 = NULL
+
+	# Now, we want to sort the outputs for each input by descending confidence, and eliminate duplicates (keeping just the one with highest confidence)
+	# Start with an empty data frame for the new sumfile
+	sortedsumfile = data.frame()
+	
+	for (f in unique(sumfile$form)) {
+		print(f)
+		# Start with an empty data frame for the outputs corresponding to this input
+		thisform = sumfile[sumfile$form == f,]
+		# Recalculate the levels of form2 for this part of the data
+		thisform$form2 = factor(thisform$form2)
+		
+		localoutputs = data.frame()
+		# Go through the actual outputs, eliminating duplicates where necessary
+		for (out in levels(thisform$form2)) {
+			print (out)
+			# Get the set of rows with this particular output
+			thisoutput = thisform[thisform$form2 == out,]
+			# Sort them in order of decreasing confidence
+			thisoutput = thisoutput[with(thisoutput, order(-confidence)),]
+			# And take just the top one
+			thisoutput = thisoutput[1,]
+
+			# Now add this output to the "localoutputs" data frame 
+			# (Note: this is very inefficient, but this isn't a big deal for present purposes)
+			localoutputs = rbind(localoutputs,thisoutput)
+		}
+		# Now we have a batch of outputs for the same form, which we can sort in order of decreasing confidence
+		
+		localoutputs = localoutputs[with(localoutputs, order(-confidence)), ]
+		 sortedsumfile = rbind(sortedsumfile, localoutputs)
+
+	}
+	# Also, it can be kind of useful to reorder the columns 
+	# (The MGL model could be modified to change this, but let's just do it here for now)	
+	sortedsumfile = sortedsumfile[, c(1:4,14:17,5:13,18:19)]	
+	# Finally, it seems that we get weird row names when we do this, so zap those
+	row.names(sortedsumfile) = NULL
+	
+	# Return the sorted sumfile object
+	sortedsumfile
+}
+
+
+sort.sumfile <- function( inputfile, outputfile="default" ) {
+	sumfile = read.sumfile(inputfile)
+	if (outputfile == "default") {
+		# If null, construct a new name for the output file. We start with the input name
+		outputfile = inputfile
+		# Now remove the .sum
+		outputfile = gsub("\\.sum$","",outputfile)
+		# Now add .sorted.sum
+		outputfile = paste(outputfile,".sorted.sum",sep="")
+	}
+	write.table(file=outputfile,sumfile,sep="\t",row.names=FALSE,quote=FALSE)
+	
+}
