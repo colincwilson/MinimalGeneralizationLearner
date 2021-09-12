@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<project name="mingenlearn" default="jar">
+
+    <target name="clean" description="remove old class files and jar">
+        <delete>
+        	<fileset dir="${basedir}/class"/>
+        </delete>
+		<delete file="${basedir}/bin/mingenlearn.jar"/>
+    </target>
+
+    <path id="build-classpath">
+        <fileset dir="extern">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <target name="compile" depends="clean">
+        <javac	destdir="${basedir}/class"
+                srcdir="${basedir}/src"
+		        includeantruntime="true"
+		        debug="on"
+                debuglevel="lines,vars,source">
+        <classpath refid="build-classpath"/>
+        </javac>
+    </target>
+
+    <target name="jar" depends="compile">
+    	<jar	destfile="${basedir}/bin/mingenlearn.jar"
+		        basedir="${basedir}/class"
+                manifest='${basedir}/manifest.mf'
+    	/>
+    </target>
+</project>

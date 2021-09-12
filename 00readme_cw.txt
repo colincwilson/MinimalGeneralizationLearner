@@ -3,6 +3,7 @@ https://linguistics.ucla.edu/people/hayes/RulesVsAnalogy/index.html
 
 = JAR =
 
+LearnerProgram/
 MinGenLearner.jar seems to be most recent version (?)
 
 Run with:
@@ -66,7 +67,7 @@ Source for older (original?) version
 source/src/LearnerTask.java
 ASCII values (first column in feature matrix) are ignored!
 
-source_cw/
+LearnerProgram2/
 [CW] Commandline interface, minor code fixes (GUI), manifest file, ant buildfile
 [CW] Build: ant -buildfile MinimalGeneralizationLearner.xml
 [CW] Run GUI: java -jar bin/mingenlearn.jar
