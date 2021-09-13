@@ -1,5 +1,5 @@
 phonologyOn: true
 useFeatures: true
 saveConFile: true
-inputDirectory: "../EnglishPastTense/English2_unicode/"
+inputDirectory: "../english/English2_unicode/"
 inputFilename: "CELEXFull_unicode.in"
