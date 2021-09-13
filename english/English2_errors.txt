@@ -1,0 +1,37 @@
+English2/
+Original English input files (based on CELEX)
+Missing / incorrect past-tense forms:
+bid ~ bid, not bade
+kneel ~ kneeled, not knelt (\*\*double)
+put ~ put
+let ~ let
+read ~ read
+set ~ set
+cut ~ cut
+strike ~ struck
+hit ~ hit
+spread ~ spread
+beat ~ beat
+shut ~ shut
+hurt ~ hurt
+cast ~ cast
+burst ~ burst
+split ~ split
+depend ~ depended
+weep ~ wept
+spin ~ spun
+thrust ~ thrusted
+shed ~ shed
+weave ~ wove
+sneak ~ snuck, not sneaked
+lord ~ lorded
+stink ~ stunk, not stank
+slit ~ slit
+fend ~ fended
+slink ~ slunk
+sod ~ sodded
+bell ~ belled
+bide ~ bided
+grit ~ gritted
+toe ~ toed
+bid (orthography indicates past "bade")
