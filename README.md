@@ -26,7 +26,7 @@ English past-tense data provided by Albright & Hayes, with various transcription
 
 ### **feature matrix format**
 
-The format of feature (.fea) files is quite strict, and generally has the following format:
+The format of feature (.fea) files is quite strict, as follows:
 
 ASCII\<tab\>Seg.\<tab\><long feature names, tab-separated>  
 \<tab\>\<tab\><short feature names, tab-separated>  
@@ -34,4 +34,7 @@ ASCII\<tab\>Seg.\<tab\><long feature names, tab-separated>
 <id2>\<tab\><symbol2><tab><feature specifications, tab-separated>  
 ...  
 <id_m>\<tab\><ˈ>\<tab\><feature specifications of stress symbol, tab-separated>  
-<id_n>\<tab\><~>\<tab\><feature specifications of empty symbol, tab-separated>
+<id_n>\<tab\><~>\<tab\><feature specifications of empty symbol, tab-separated>  
+  
+The 'ASCII' values must be unique integers, but are otherwise arbitrary.  
+The stress symbol can be omitted if it does not appear in the transcriptions.
