@@ -8,7 +8,7 @@ The original version of the learner with a GUI interface, files downloaded [06/1
 
 The new version of the learner with a command-line interface. The (only) file added to the original code is src/LearnerCommandline.java. Arguments for the learner are specified with [YAML](https://yaml.org/) files, see for example english.yaml. Run the English past-tense simulation with `00runme.sh`.
 
-This version comes already compiled (with Java 16). Recompile with: `ant -buildfile MinimalGeneralizationLearner.xml`. The one external dependency is [SnakeYAML](https://github.com/asomov/snakeyaml), included here as extern/snakeyaml-1.29.jar.
+This version comes already compiled (with Java 16). Recompile with: `ant -buildfile MinimalGeneralizationLearner.xml`. The one external dependency is [SnakeYAML](https://github.com/asomov/snakeyamlmatrix), included here as extern/snakeyaml-1.29.jar.
 
 The new version also has the original GUI interace, run with: `java -jar bin/mingenlearn.jar`
 
@@ -24,17 +24,17 @@ English past-tense data provided by Albright & Hayes, with various transcription
 
 - English_phonemes.ods compares the transcription systems and provides a feature matrix.
 
-### **feature matrix format**
+### **feature file format**
 
 The format of feature (.fea) files is quite strict, as follows:
 
-ASCII\<tab\>Seg.\<tab\><long feature names, tab-separated>  
-\<tab\>\<tab\><short feature names, tab-separated>  
-<id1>\<tab\><symbol1><tab><feature specifications (+1, 0, -1), tab-separated>  
-<id2>\<tab\><symbol2><tab><feature specifications, tab-separated>  
+ASCII\<tab\>Seg.\<tab\>\<long feature names, tab-separated\>  
+\<tab\>\<tab\>\<short feature names, tab-separated\>  
+\<id_1\>\<tab\>segment_1\<tab\>\<feature specifications (+1, 0, -1), tab-separated\>  
+\<id_2\>\<tab\>segment_2\<tab\>\<feature specifications (+1, 0, -1), tab-separated\>  
 ...  
-<id_m>\<tab\><ˈ>\<tab\><feature specifications of stress symbol, tab-separated>  
-<id_n>\<tab\><~>\<tab\><feature specifications of empty symbol, tab-separated>  
+\<id_m\>\<tab\>ˈ\<tab\>\<feature specifications of stress symbol, tab-separated\>  
+\<id_n\>\<tab\>~\<tab\>\<feature specifications of empty symbol, tab-separated\>  
   
 The 'ASCII' values must be unique integers, but are otherwise arbitrary.  
 The stress symbol can be omitted if it does not appear in the transcriptions.
