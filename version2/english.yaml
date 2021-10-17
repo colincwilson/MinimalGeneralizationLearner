@@ -1,5 +1,9 @@
-phonologyOn: true
 useFeatures: true
+phonologyOn: true
+intermediateWugTests: false
+wugtimeLearning: false
+useDoppelgaengers: false
+useImpugnment: false
 saveConFile: true
 inputDirectory: "../english/English2_unicode/"
 inputFilename: "CELEXFull_unicode.in"
