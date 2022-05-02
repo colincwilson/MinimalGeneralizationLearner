@@ -24,7 +24,7 @@ tˈɛl	tˈold	19040	tell	told	irreg
 sˈim	sˈimd	15911	seem	seemed	reg
 fˈil	fˈɛlt	15489	feel	felt	irreg
 ˈæsk	ˈæskt	14651	ask	asked	reg
-pˈʊt	pˈʊt	14426	put		irreg
+pˈʊt	pˈʊt	14426	put	put	irreg
 jˈuz	jˈuzd	14307	use	used	reg
 lˈiv	lˈɛft	14042	leave	left	irreg
 tɹˈY	tɹˈYd	13237	try	tried	reg
@@ -46,12 +46,12 @@ hˈold	hˈɛld	8324	hold	held	irreg
 CˈenJ	CˈenJd	8239	change	changed	reg
 stˈaɹt	stˈaɹtəd	8092	start	started	reg
 ɹˈʌn	ɹˈæn	7903	run	ran	irreg
-lˈɛt	lˈɛt	7728	let		irreg
+lˈɛt	lˈɛt	7728	let	let	irreg
 mˈuv	mˈuvd	7653	move	moved	reg
 bilˈiv	bilˈivd	7649	believe	believed	reg
 plˈe	plˈed	7245	play	played	reg
 hˈɛlp	hˈɛlpt	6956	help	helped	reg
-ɹˈid	ɹˈɛd	6689	read		irreg
+ɹˈid	ɹˈɛd	6689	read	read	irreg
 spˈik	spˈok	6655	speak	spoke	irreg
 ɹɪmˈɛmbɚ	ɹɪmˈɛmbɚd	6538	remember	remembered	reg
 pˈe	pˈed	6268	pay	paid	reg
@@ -60,7 +60,7 @@ lˈuz	lˈɔst	6086	lose	lost	irreg
 stˈap	stˈapt	5955	stop	stopped	reg
 lˈYk	lˈYkt	5855	like	liked	reg
 wˈet	wˈetəd	5720	wait	waited	reg
-sˈɛt	sˈɛt	5630	set		irreg
+sˈɛt	sˈɛt	5630	set	set	irreg
 kˈeɹi	kˈeɹid	5582	carry	carried	reg
 wˈɔk	wˈɔkt	5552	walk	walked	reg
 lˈɚn	lˈɚnd	5524	learn	learned	reg
@@ -102,7 +102,7 @@ kənsˈɪdɚ	kənsˈɪdɚd	3730	consider	considered	reg
 ɹˈYz	ɹˈoz	3486	rise	rose	irreg
 kˈæC	kˈɔt	3459	catch	caught	irreg
 əgɹˈi	əgɹˈid	3424	agree	agreed	reg
-kˈʌt	kˈʌt	3415	cut		irreg
+kˈʌt	kˈʌt	3415	cut	cut	irreg
 ɹɪkwˈYɚ	ɹɪkwˈYɚd	3391	require	required	reg
 pˈɪk	pˈɪkt	3386	pick	picked	reg
 wˈɪʃ	wˈɪʃt	3373	wish	wished	reg
@@ -168,7 +168,7 @@ sˈik	sˈɔt	2147	seek	sought	irreg
 stˈʌdi	stˈʌdid	2103	study	studied	reg
 θˈæŋk	θˈæŋkt	2063	thank	thanked	reg
 mˈɛnCən	mˈɛnCənd	2023	mention	mentioned	reg
-stɹˈYk	stɹˈʌk	1999	strike		irreg
+stɹˈYk	stɹˈʌk	1999	strike	struck	irreg
 əsˈum	əsˈumd	1968	assume	assumed	reg
 tˈʌC	tˈʌCt	1967	touch	touched	reg
 ɪnkˈɚɪJ	ɪnkˈɚɪJd	1925	encourage	encouraged	reg
@@ -179,7 +179,7 @@ dɪstɹˈO	dɪstɹˈOd	1860	destroy	destroyed	reg
 hˈYd	hˈɪd	1804	hide	hid	irreg
 plˈes	plˈest	1802	place	placed	reg
 klˈem	klˈemd	1794	claim	claimed	reg
-hˈɪt	hˈɪt	1792	hit		irreg
+hˈɪt	hˈɪt	1792	hit	hit	irreg
 pɹɪzˈɛnt	pɹɪzˈɛntəd	1773	present	presented	reg
 tɹˈit	tɹˈitəd	1764	treat	treated	reg
 ədmˈɪt	ədmˈɪtəd	1747	admit	admitted	reg
@@ -196,14 +196,14 @@ klˈYm	klˈYmd	1643	climb	climbed	reg
 mˈætɚ	mˈætɚd	1622	matter	mattered	reg
 sɚvˈYv	sɚvˈYvd	1603	survive	survived	reg
 ˈon	ˈond	1599	own	owned	reg
-spɹˈɛd	spɹˈɛd	1578	spread		irreg
+spɹˈɛd	spɹˈɛd	1578	spread	spread	irreg
 lˈɪft	lˈɪftəd	1578	lift	lifted	reg
 bˈɚn	bˈɚnd	1577	burn	burned	reg
 gˈen	gˈend	1567	gain	gained	reg
 pɹˈɛs	pɹˈɛst	1567	press	pressed	reg
 kəntɹˈol	kəntɹˈold	1549	control	controlled	reg
 pˈʌblɪʃ	pˈʌblɪʃt	1545	publish	published	reg
-bˈit	bˈit	1544	beat		irreg
+bˈit	bˈit	1544	beat	beat	irreg
 ˈoɹdɚ	ˈoɹdɚd	1541	order	ordered	reg
 pɹətˈɛkt	pɹətˈɛktəd	1534	protect	protected	reg
 mˈɪs	mˈɪst	1527	miss	missed	reg
@@ -237,7 +237,7 @@ lˈin	lˈind	1290	lean	leaned	reg
 ɹˈol	ɹˈold	1287	roll	rolled	reg
 pˈent	pˈentəd	1285	paint	painted	reg
 kˈʊk	kˈʊkt	1284	cook	cooked	reg
-ʃˈʌt	ʃˈʌt	1280	shut		irreg
+ʃˈʌt	ʃˈʌt	1280	shut	shut	irreg
 lˈæst	lˈæstəd	1266	last	lasted	reg
 ɪgnˈoɹ	ɪgnˈoɹd	1264	ignore	ignored	reg
 hˈænd	hˈændəd	1258	hand	handed	reg
@@ -245,14 +245,14 @@ kəlˈɛkt	kəlˈɛktəd	1252	collect	collected	reg
 YdˈɛntəfY	YdˈɛntəfYd	1223	identify	identified	reg
 stɹˈɛC	stɹˈɛCt	1209	stretch	stretched	reg
 əbtˈen	əbtˈend	1207	obtain	obtained	reg
-hˈɚt	hˈɚt	1204	hurt		irreg
+hˈɚt	hˈɚt	1204	hurt	hurt	irreg
 Jˈʌmp	Jˈʌmpt	1195	jump	jumped	reg
 hˈændəl	hˈændəld	1193	handle	handled	reg
 kəmbˈYn	kəmbˈYnd	1190	combine	combined	reg
 səksˈid	səksˈidəd	1187	succeed	succeeded	reg
 ɹɪpˈit	ɹɪpˈitəd	1182	repeat	repeated	reg
 wˈek	wˈok	1181	wake	waked	irreg
-bˈɛnd	bˈɛnt	1179	bend	bended	irreg
+bˈɛnd	bˈɛnt	1179	bend	bent	irreg
 dˈæns	dˈænst	1177	dance	danced	reg
 dɪnˈY	dɪnˈYd	1172	deny	denied	reg
 ɪnvˈYt	ɪnvˈYtəd	1171	invite	invited	reg
@@ -356,7 +356,7 @@ kəntɹˈɪbjut	kəntɹˈɪbjutəd	753	contribute	contributed	reg
 kˈɪk	kˈɪkt	753	kick	kicked	reg
 lˈɪŋk	lˈɪŋkt	743	link	linked	reg
 ɹɪzˈɪst	ɹɪzˈɪstəd	739	resist	resisted	reg
-kˈæst	kˈæst	737	cast		irreg
+kˈæst	kˈæst	737	cast	cast	irreg
 stˈɚ	stˈɚd	735	stir	stirred	reg
 mˈWnt	mˈWntəd	730	mount	mounted	reg
 ɹˈʌb	ɹˈʌbd	729	rub	rubbed	reg
@@ -379,7 +379,7 @@ twˈɪst	twˈɪstəd	696	twist	twisted	reg
 əʃˈuɹ	əʃˈuɹd	691	assure	assured	reg
 pˈæk	pˈækt	688	pack	packed	reg
 fˈold	fˈoldəd	685	fold	folded	reg
-bˈɚst	bˈɚst	682	burst		irreg
+bˈɚst	bˈɚst	682	burst	burst	irreg
 kəndˈʌkt	kəndˈʌktəd	681	conduct	conducted	reg
 əbzˈoɹb	əbzˈoɹbd	679	absorb	absorbed	reg
 wˈest	wˈestəd	675	waste	wasted	reg
@@ -411,7 +411,7 @@ slˈo	slˈod	613	slow	slowed	reg
 dˈWt	dˈWtəd	612	doubt	doubted	reg
 spɹˈɪŋ	spɹˈæŋ	603	spring	sprang	irreg
 gɹˈæb	gɹˈæbd	600	grab	grabbed	reg
-splˈɪt	splˈɪt	599	split		irreg
+splˈɪt	splˈɪt	599	split	split	irreg
 pɹəmˈot	pɹəmˈotəd	586	promote	promoted	reg
 flˈot	flˈotəd	585	float	floated	reg
 dɪklˈYn	dɪklˈYnd	584	decline	declined	reg
@@ -420,7 +420,7 @@ sˈiz	sˈizd	579	seize	seized	reg
 swˈeɹ	swˈoɹ	576	swear	swore	irreg
 kənsˈil	kənsˈild	575	conceal	concealed	reg
 dɹˈɪft	dɹˈɪftəd	573	drift	drifted	reg
-dɪpˈɛnd	dɪpˈɛndəd	572	depend		reg
+dɪpˈɛnd	dɪpˈɛndəd	572	depend	depended	reg
 dɪstˈɪŋgwɪʃ	dɪstˈɪŋgwɪʃt	568	distinguish	distinguished	reg
 bˈoɹ	bˈoɹd	568	bore	bored	reg
 dˈYn	dˈYnd	563	dine	dined	reg
@@ -476,7 +476,7 @@ snˈæp	snˈæpt	506	snap	snapped	reg
 pɹˈe	pɹˈed	505	pray	prayed	reg
 fəlfˈɪl	fəlfˈɪld	504	fulfil	fulfilled	reg
 bˈæk	bˈækt	504	back	backed	reg
-wˈip	wˈɛpt	499	weep		irreg
+wˈip	wˈɛpt	499	weep	wept	irreg
 kɹˈɪtɪsYz	kɹˈɪtɪsYzd	498	criticize	criticized	reg
 hˈit	hˈitəd	498	heat	heated	reg
 ɹˈɛJɪstɚ	ɹˈɛJɪstɚd	498	register	registered	reg
@@ -513,7 +513,7 @@ kˈul	kˈuld	461	cool	cooled	reg
 kˈæpCɚ	kˈæpCɚd	460	capture	captured	reg
 ɪntˈɚpɹɪt	ɪntˈɚpɹɪtəd	459	interpret	interpreted	reg
 gˈYd	gˈYdəd	459	guide	guided	reg
-spˈɪn	spˈʌn	458	spin	span	irreg
+spˈɪn	spˈʌn	458	spin	spun	irreg
 kənfˈɛs	kənfˈɛst	456	confess	confessed	reg
 tɹˈæp	tɹˈæpt	456	trap	trapped	reg
 kɹˈɔl	kɹˈɔld	454	crawl	crawled	reg
@@ -568,7 +568,7 @@ dˈɪfɚ	dˈɪfɚd	408	differ	differed	reg
 hˈɚtəl	hˈɚtəld	407	hurtle	hurtled	reg
 kənvˈe	kənvˈed	406	convey	conveyed	reg
 spˈat	spˈatəd	406	spot	spotted	reg
-nˈil	nˈɛlt	406	kneel	kneeled	irreg
+nˈil	nˈɛlt	406	kneel	knelt	irreg
 ˈiz	ˈizd	404	ease	eased	reg
 ˈænəlYz	ˈænəlYzd	403	analyse	analysed	reg
 fˈokəs	fˈokəst	403	focus	focussed	reg
@@ -627,7 +627,7 @@ stˈɪmjʊlet	stˈɪmjʊletəd	353	stimulate	stimulated	reg
 ʃˈætɚ	ʃˈætɚd	350	shatter	shattered	reg
 kˈaɹv	kˈaɹvd	350	carve	carved	reg
 Cˈap	Cˈapt	349	chop	chopped	reg
-θɹˈʌst	θɹˈʌst	348	thrust		irreg
+θɹˈʌst	θɹˈʌst	348	thrust	thrust	irreg
 kəɹˈɛkt	kəɹˈɛktəd	347	correct	corrected	reg
 bˈɛnəfɪt	bˈɛnəfɪtəd	347	benefit	benefited	reg
 bˈɛtɚ	bˈɛtɚd	346	better	bettered	reg
@@ -744,7 +744,7 @@ bˈW	bˈWd	279	bow	bowed	reg
 ɪnvˈed	ɪnvˈedəd	277	invade	invaded	reg
 lˈoket	lˈoketəd	276	locate	located	reg
 Jˈɚk	Jˈɚkt	276	jerk	jerked	reg
-ʃˈɛd	ʃˈɛd	274	shed		irreg
+ʃˈɛd	ʃˈɛd	274	shed	shed	irreg
 bˈet	bˈetəd	274	bait	baited	reg
 kˈɚl	kˈɚld	273	curl	curled	reg
 slˈæm	slˈæmd	273	slam	slammed	reg
@@ -797,7 +797,7 @@ skwˈeɹ	skwˈeɹd	246	square	squared	reg
 blˈɪŋk	blˈɪŋkt	246	blink	blinked	reg
 hˈɔnt	hˈɔntəd	246	haunt	haunted	reg
 mˈanɪtɚ	mˈanɪtɚd	245	monitor	monitored	reg
-wˈiv	wˈov	245	weave		irreg
+wˈiv	wˈov	245	weave	wove	irreg
 flˈʌʃ	flˈʌʃt	245	flush	flushed	reg
 bɪwˈɪldɚ	bɪwˈɪldɚd	245	bewilder	bewildered	reg
 hˈoɹɪfY	hˈoɹɪfYd	244	horrify	horrified	reg
@@ -841,7 +841,7 @@ flˈætɚ	flˈætɚd	229	flatter	flattered	reg
 snˈɪf	snˈɪft	229	sniff	sniffed	reg
 bˈol	bˈold	229	bowl	bowled	reg
 gɹˈæJuet	gɹˈæJuetəd	228	graduate	graduated	reg
-kwˈɪt	kwˈɪt	228	quit	quitted	irreg
+kwˈɪt	kwˈɪt	228	quit	quit	irreg
 kæmpˈen	kæmpˈend	228	campaign	campaigned	reg
 wˈɪsəl	wˈɪsəld	228	whistle	whistled	reg
 kˈam	kˈamd	228	calm	calmed	reg
@@ -1542,7 +1542,7 @@ bɹˈif	bɹˈift	85	brief	briefed	reg
 mˈaɹvəl	mˈaɹvəld	85	marvel	marvelled	reg
 mˈʌnC	mˈʌnCt	85	munch	munched	reg
 sˈip	sˈipt	85	seep	seeped	reg
-bˈɪd	bˈɪd	85	bid	bade	irreg
+bˈɪd	bˈɪd	85	bid	bid	irreg
 klˈæʃ	klˈæʃt	85	clash	clashed	reg
 fˈɪŋgɚ	fˈɪŋgɚd	85	finger	fingered	reg
 gɹˈætɪfY	gɹˈætɪfYd	85	gratify	gratified	reg
@@ -1675,7 +1675,7 @@ stˈu	stˈud	74	stew	stewed	reg
 swˈamp	swˈampt	74	swamp	swamped	reg
 kənvˈɚs	kənvˈɚst	73	converse	conversed	reg
 dˈuplɪket	dˈuplɪketəd	73	duplicate	duplicated	reg
-lˈoɹd	lˈoɹdəd	73	lord		reg
+lˈoɹd	lˈoɹdəd	73	lord	lorded	reg
 ɹˈYət	ɹˈYətəd	73	riot	rioted	reg
 lˈabi	lˈabid	73	lobby	lobbied	reg
 stˈændɚdYz	stˈændɚdYzd	73	standardize	standardized	reg
@@ -1862,7 +1862,7 @@ mˈɛdɪtet	mˈɛdɪtetəd	60	meditate	meditated	reg
 pɚsɪvˈiɹ	pɚsɪvˈiɹd	60	persevere	persevered	reg
 ɹˈɪdɪkjul	ɹˈɪdɪkjuld	60	ridicule	ridiculed	reg
 ʃˈædo	ʃˈædod	60	shadow	shadowed	reg
-slˈɪt	slˈɪt	60	slit		irreg
+slˈɪt	slˈɪt	60	slit	slit	irreg
 splˈɪntɚ	splˈɪntɚd	60	splinter	splintered	reg
 supɚsˈid	supɚsˈidəd	60	supersede	superseded	reg
 tˈYl	tˈYld	60	tile	tiled	reg
@@ -2437,7 +2437,7 @@ wˈadəl	wˈadəld	33	waddle	waddled	reg
 wˈɛstɚnYz	wˈɛstɚnYzd	33	westernize	westernized	reg
 ˈɛkstɹədYt	ˈɛkstɹədYtəd	32	extradite	extradited	reg
 tˈutɚ	tˈutɚd	32	tutor	tutored	reg
-fˈɛnd	fˈɛndəd	32	fend		reg
+fˈɛnd	fˈɛndəd	32	fend	fended	reg
 fˈæst	fˈæstəd	32	fast	fasted	reg
 klˈʌmp	klˈʌmpt	32	clump	clumped	reg
 bɪsˈiC	bɪsˈɔt	32	beseech	beseeched	irreg
@@ -2513,7 +2513,7 @@ pˈʌkɚ	pˈʌkɚd	30	pucker	puckered	reg
 ɹɪmˈænd	ɹɪmˈændəd	30	remand	remanded	reg
 ɹˈɛnovet	ɹˈɛnovetəd	30	renovate	renovated	reg
 ɹˈYv	ɹˈYvd	30	rive	rived	reg
-slˈɪŋk	slˈʌŋk	30	slink		irreg
+slˈɪŋk	slˈʌŋk	30	slink	slunk	irreg
 smˈaɹt	smˈaɹtəd	30	smart	smarted	reg
 spˈɚt	spˈɚtəd	30	spurt	spurted	reg
 vˈæŋkwɪʃ	vˈæŋkwɪʃt	30	vanquish	vanquished	reg
@@ -2678,7 +2678,7 @@ tˈʌnəl	tˈʌnəld	24	tunnel	tunnelled	reg
 flˈWt	flˈWtəd	24	flout	flouted	reg
 glˈɔs	glˈɔst	24	gloss	glossed	reg
 pˈYn	pˈYnd	24	pine	pined	reg
-sˈad	sˈadəd	24	sod		reg
+sˈad	sˈadəd	24	sod	sodded	reg
 spˈe	spˈed	24	spay	spayed	reg
 kˈɚtsi	kˈɚtsid	24	curtsy	curtsied	reg
 dɪzˈɪst	dɪzˈɪstəd	24	desist	desisted	reg
@@ -3084,7 +3084,7 @@ wˈɪntɚ	wˈɪntɚd	15	winter	wintered	reg
 jˈæp	jˈæpt	15	yap	yapped	reg
 tˈɛlɛks	tˈɛlɛkst	14	telex	telexed	reg
 ɪnsˈɪnəɹet	ɪnsˈɪnəɹetəd	14	incinerate	incinerated	reg
-bˈɛl	bˈɛld	14	bell		reg
+bˈɛl	bˈɛld	14	bell	belled	reg
 gˈʌtɚ	gˈʌtɚd	14	gutter	guttered	reg
 ˈædəl	ˈædəld	14	addle	addled	reg
 blakˈed	blakˈedəd	14	blockade	blockaded	reg
@@ -3131,7 +3131,7 @@ lˈɪbɚəlYz	lˈɪbɚəlYzd	13	liberalize	liberalized	reg
 vˈændəlYz	vˈændəlYzd	13	vandalize	vandalized	reg
 əJˈudɪket	əJˈudɪketəd	13	adjudicate	adjudicated	reg
 əpˈoɹʃən	əpˈoɹʃənd	13	apportion	apportioned	reg
-bˈYd	bˈYdəd	13	bide		reg
+bˈYd	bˈYdəd	13	bide	bided	reg
 kˈæv	kˈævd	13	calve	calved	reg
 kˈaɹp	kˈaɹpt	13	carp	carped	reg
 kˈɔ	kˈɔd	13	caw	cawed	reg
@@ -3257,7 +3257,7 @@ wˈeJɚ	wˈeJɚd	11	wager	wagered	reg
 mˈʌmɪfY	mˈʌmɪfYd	10	mummify	mummified	reg
 dˈɛbɪt	dˈɛbɪtəd	10	debit	debited	reg
 swˈat	swˈatəd	10	swot	swotted	reg
-gɹˈɪt	gɹˈɪtəd	10	grit		reg
+gɹˈɪt	gɹˈɪtəd	10	grit	gritted	reg
 pɹapəgˈændYz	pɹapəgˈændYzd	10	propagandize	propagandized	reg
 ədˈus	ədˈust	10	adduce	adduced	reg
 ədˈʌltəɹet	ədˈʌltəɹetəd	10	adulterate	adulterated	reg
@@ -3309,7 +3309,7 @@ sˈælv	sˈælvd	10	salve	salved	reg
 splˈYs	splˈYst	10	splice	spliced	reg
 splˈɚJ	splˈɚJd	10	splurge	splurged	reg
 swˈab	swˈabd	10	swab	swabbed	reg
-tˈo	tˈod	10	toe		reg
+tˈo	tˈod	10	toe	toed	reg
 tɹˈɔl	tɹˈɔld	10	trawl	trawled	reg
 vˈɔnt	vˈɔntəd	10	vaunt	vaunted	reg
 vˈɛJɪtet	vˈɛJɪtetəd	10	vegetate	vegetated	reg
