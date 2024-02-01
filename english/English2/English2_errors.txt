@@ -10,3 +10,5 @@ kneel	kneeled => kneel	knelt
 spin	span => spin	spun
 quit	quitted => quit	quit
 bend    bended => bend  bent
+
+todo: check prefix-strip orthographic irregular pasts
